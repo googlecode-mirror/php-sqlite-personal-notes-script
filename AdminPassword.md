@@ -1,0 +1,1 @@
+To change your admin password just edit index.php and change the variable values in $password.
